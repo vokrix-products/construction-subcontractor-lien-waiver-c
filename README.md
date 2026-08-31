@@ -52,3 +52,5 @@ Dashboard: https://construction-subcontractor-lien-waiver-c.vokrix.co
 Vercel: construction-subcontractor-lien-waiver-c
 Railway: construction-subcontractor-lien-waiver-c
 Cloudflare: construction-subcontractor-lien-waiver-c.vokrix.co
+
+Landing: https://vokrix.co/construction-subcontractor-lien-waiver-c
