@@ -47,3 +47,6 @@ python3 run_tests.py
 ```
 
 To enable AI extraction, set `DEEPSEEK_API_KEY` in the environment before calling `process_file`.
+
+Dashboard: https://construction-subcontractor-lien-waiver-c.vokrix.co
+Vercel: construction-subcontractor-lien-waiver-c
